@@ -1,0 +1,102 @@
+[
+    {
+        "skill": ".NET",
+        "description": "",
+        "icon_url": "public/images/tech/NET.png"
+    },
+    {
+        "skill": "C#",
+        "description": "",
+        "icon_url": "public/images/tech/CSharp.png"
+    },
+    {
+        "skill": "MicrosoftSQLServer",
+        "description": "",
+        "icon_url": "public/images/tech/MicrosoftSQLServer.png"
+    },
+    {
+        "skill": "MySQL",
+        "description": "",
+        "icon_url": "public/images/tech/MySQL.png"
+    },
+    {
+        "skill": "Laravel",
+        "description": "",
+        "icon_url": "public/images/tech/Laravel.png"
+    },
+    {
+        "skill": "CodeIgniter",
+        "description": "",
+        "icon_url": "public/images/tech/CodeIgniter.png"
+    },
+    {
+        "skill": "PHP",
+        "description": "",
+        "icon_url": "public/images/tech/PHP.png"
+    },
+    {
+        "skill": "Electron",
+        "description": "",
+        "icon_url": "public/images/tech/Electron.png"
+    },
+    {
+        "skill": "React",
+        "description": "",
+        "icon_url": "public/images/tech/React.png"
+    },
+    {
+        "skill": "TailwindCSS",
+        "description": "",
+        "icon_url": "public/images/tech/TailwindCSS.png"
+    },
+    {
+        "skill": "Bootstrap",
+        "description": "",
+        "icon_url": "public/images/tech/Bootstrap.png"
+    },
+    {
+        "skill": "TypeScript",
+        "description": "",
+        "icon_url": "public/images/tech/TypeScript.png"
+    },
+    {
+        "skill": "JavaScript",
+        "description": "",
+        "icon_url": "public/images/tech/JavaScript.png"
+    },
+    {
+        "skill": "CSS",
+        "description": "",
+        "icon_url": "public/images/tech/CSS3.png"
+    },
+    {
+        "skill": "HTML",
+        "description": "",
+        "icon_url": "public/images/tech/HTML5.png"
+    },
+    {
+        "skill": "Swift",
+        "description": "",
+        "icon_url": "public/images/tech/Swift.png"
+    },
+    {
+        "skill": "Ionic",
+        "description": "",
+        "icon_url": "public/images/tech/ionic.png"
+    },
+    {
+        "skill": "Angular",
+        "description": "",
+        "icon_url": "public/images/tech/Angular.png"
+    },
+    {
+        "skill": "VSCode",
+        "description": "",
+        "icon_url": "public/images/tech/VSCode.png"
+    },
+    {
+        "skill": "Visual Studio",
+        "description": "",
+        "icon_url": "public/images/tech/Visual Studio.png"
+    }
+]

@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="public/css/app.css" />
+    <title>Portfolio</title>
+  </head>
+  <body>
+    <main>
+      <section class="portfolio-title-wrapper">
+        <h1 class="title portfolio-title">Portfolio</h1>
+      </section>
+
+      <section class="intro">
+        <div class="avatar-border-container">
+          <a class="github-link" href="https://github.com/CarDioLogic" target="_blank" rel="noopener noreferrer">
+            <img 
+              class="github-icon" 
+              src="public/images/github.svg" 
+              alt="GitHub profile">
+          </a>
+          <div class="avatar-container">
+            <img src="public/images/jms-image.png" alt="user profile image" />
+          </div>
+        </div>
+        <div class="intro-description-container">
+          <p><em id="my_name">My name is *name</em></p>
+          <p>I have a background in biology and worked in other fields before deciding to transition into IT in mid-2023. I enrolled in and completed a CTSeP Level 5 course at ATEC, which led to an internship and eventually my first role in the IT industry.</p>
+          <p>Web development is my main focus, but it’s not the only area I enjoy exploring. I also have an interest in mobile development, game development, and design, which I occasionally experiment with.</p>
+        </div>
+      </section>
+
+      <section class="main-content-container">
+        <div class="content-left">
+            <div id="contacts">
+              <h2 class="subtitle">Contacts</h2>
+              <ul class="items-list">
+                <li class="item">
+                  <img src="public/images/phone-solid.svg" alt="phone icon" class="icon" />
+                  <span id="phone_nbr"><div class="loader"></div></span>
+                </li>
+                <li class="item">
+                  <img src="public/images/mail-solid.svg" alt="email icon" class="icon" />
+                  <span id="email"><div class="loader"></div></span>
+                </li>
+              </ul>
+            </div>
+            <div id="education" >
+              <h2 class="subtitle">Education</h2>
+              <ul class="items-list" id="education_list">
+                <div class="loader"></div>
+              </ul>
+            </div>
+            <div id="skills">
+              <h2 class="subtitle">Skills</h2>
+              <ul class="items-list skills-list" id="skills_list">
+                <div class="loader"></div>
+              </ul>
+            </div>
+        </div>
+        <div class="content-right">
+            <div id="experience">
+              <h2 class="subtitle">IT professional Experience</h2>
+                <ul class="timeline" id="professional_experience">
+                  <div class="loader"></div>
+                </ul>
+            </div>
+        </div>
+      </section>
+      <section class="projects-section">
+        <h2 class="subtitle">Projects</h2>
+        <div class="projects-container" id="projects_list">
+          <div class="loader"></div>
+        </div>
+      </section>
+
+  </body>
+  <script src="public/js/main.js" type="module"></script>
+</html>

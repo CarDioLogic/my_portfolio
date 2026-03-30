@@ -1,0 +1,95 @@
+
+[
+    {
+        "name": "DnD library",
+        "description": "An immersive D&D web app that lets you browse monsters, spells, equipment, and more through a dynamic, book-like interface. Designed for quick, atmospheric access during gameplay, it enhances both player and Dungeon Master experience. Powered by the D&D 5e SRD API.",
+        "imageUrl": "",
+        "repoUrl": "https://github.com/CarDioLogic/DnD_Game_api",
+        "demoUrl": "",
+        "technologies": [
+            {
+                "tech": "React",
+                "iconUrl": "public/images/tech/React.png"
+            },
+            {
+                "tech": "HTML",
+                "iconUrl": "public/images/tech/HTML5.png"
+            },
+            {
+                "tech": "CSS",
+                "iconUrl": "public/images/tech/CSS3.png"
+            },
+            {
+                "tech": "TailwindCSS",
+                "iconUrl": "public/images/tech/TailwindCSS.png"
+            },
+            {
+                "tech": "JavaScript",
+                "iconUrl": "public/images/tech/JavaScript.png"
+            }
+        ]
+    },
+    {
+        "name": "FrontEnd mentor challenges website",
+        "description": "Its a compilation and showcase of the projects completed in FrontEnd mentor platform in order to pratice.",
+        "imageUrl": "",
+        "repoUrl": "https://github.com/CarDioLogic/FrontEnd-Mentor-Challenges",
+        "demoUrl": "https://cardiologic.github.io/FrontEnd-Mentor-Challenges/",
+        "technologies": [
+            {
+                "tech": "HTML",
+                "iconUrl": "public/images/tech/HTML5.png"
+            },
+            {
+                "tech": "CSS",
+                "iconUrl": "public/images/tech/CSS3.png"
+            },
+            {
+                "tech": "JavaScript",
+                "iconUrl": "public/images/tech/JavaScript.png"
+            }
+        ]
+    },
+    {
+        "name": "MyGamingJournal",
+        "description": "A simple mobile app to organize all the games you play by distributing them in different lists (currently playing, play later, played and finished).",
+        "imageUrl": "",
+        "repoUrl": "https://github.com/CarDioLogic/MyGamingJournalR",
+        "demoUrl": "",
+        "technologies": [
+            {
+                "tech": "Angular",
+                "iconUrl": "public/images/tech/Angular.png"
+            },
+            {
+                "tech": "Ionic",
+                "iconUrl": "public/images/tech/ionic.png"
+            },
+            {
+                "tech": "Typescript",
+                "iconUrl": "public/images/tech/TypeScript.png"
+            },
+            {
+                "tech": "HTML",
+                "iconUrl": "public/images/tech/HTML5.png"
+            },
+            {
+                "tech": "CSS",
+                "iconUrl": "public/images/tech/CSS3.png"
+            }
+        ]
+    },
+    {
+        "name": "PipBioTracker",
+        "description": "A simple mobile app for iOS that allows to see species occurrences close to the user using the GBIF api for accurate and real time scientific data.",
+        "imageUrl": "",
+        "repoUrl": "https://github.com/CarDioLogic/PipBioTracker",
+        "demoUrl": "",
+        "technologies": [
+            {
+                "tech": "SWIFT",
+                "iconUrl": "public/images/tech/Swift.png"
+            }
+        ]
+    }
+]

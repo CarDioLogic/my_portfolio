@@ -1,0 +1,20 @@
+[
+    {
+        "institution": "ATEC",
+        "degree": "Information Systems Technologies and Programming (Level 5 CTESP)",
+        "completion_year": "2024",
+        "location": "Matosinhos"
+    },
+    {
+        "institution": "Faculty of Sciences of University of Porto",
+        "degree": "Master's in Biology and management of water quality",
+        "completion_year": "2018",
+        "location": "Porto"
+    },
+    {
+        "institution": "Faculty of Sciences of University of Porto",
+        "degree": "Bachelor in Biology",
+        "completion_year": "2016",
+        "location": "Porto"
+    }
+]

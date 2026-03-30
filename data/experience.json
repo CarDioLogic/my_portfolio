@@ -1,0 +1,45 @@
+
+[
+  {
+    "company": "Freelancing",
+    "position": "Fullstack Developer",
+    "start_date": "2026-01-01",
+    "end_date": "Present",
+    "location": "On-site",
+    "tasks": [
+      "Maintining and extending features in web apps (PHP, Code igniter)."
+    ]
+  },
+  {
+    "company": "EventKey",
+    "position": "Fullstack Developer",
+    "start_date": "2024-11-01",
+    "end_date": "2025-11-30",
+    "location": "On-site",
+    "tasks": [
+      "Designed and developed a Quality Control (QC) management system (ASP.NET, C#, WinForms) covering full lifecycle from requisites and database design to deployment.",
+      "Implemented key features including QC record management, label generation/printing, FileShare-based file handling, and automated data extraction.",
+      "Developed supporting tools including a print server and a desktop app integrating DevExpress for label template design.",
+      "Maintained and extended HR & project management system (Laravel/PHP), adding features and resolving bugs.",
+      "Contributed to event management platform by implementing employee clock-in/clock-out functionality.",
+      "Refactored and enhanced a WordPress plugin to fetch and display API data, improving admin UX and enabling custom templating for clients websites with dynamic data.",
+      "Built and maintained custom Laravel applications for organism collection management.",
+      "Developed PowerShell scripts to automate API client generation and streamline deployment workflows.",
+      "Performed feature enhancements, bug fixes, and maintenance across multiple client web platforms (Laravel/PHP)."
+    ]
+  },
+  {
+    "company": "EventKey",
+    "position": "Fullstack Developer (Internship)",
+    "start_date": "2024-09-01",
+    "end_date": "2024-11-30",
+    "location": "On-site",
+    "tasks": [
+      "Contributed to multiple internal web applications including HR & project management, CRM, and event management systems using Laravel, CodeIgniter, and ASP.NET.",
+      "Enhanced HR system (Laravel/PHP) by implementing new features such as automated task reminder emails and task management (CRUD), improving performance and fixing bugs.",
+      "Migrated legacy client platforms to updated system versions ensuring database compatibility.",
+      "Adjusted CRM features (CodeIgniter/PHP), including role-based access control and UI improvements.",
+      "Extended event management platform (ASP.NET/C#/TypeScript) by implementing QR code-based content filtering."
+    ]
+  }
+]
