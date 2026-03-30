@@ -5,7 +5,7 @@
         "description": "An immersive D&D web app that lets you browse monsters, spells, equipment, and more through a dynamic, book-like interface. Designed for quick, atmospheric access during gameplay, it enhances both player and Dungeon Master experience. Powered by the D&D 5e SRD API.",
         "imageUrl": "",
         "repoUrl": "https://github.com/CarDioLogic/DnD_Game_api",
-        "demoUrl": "",
+        "demoUrl": " https://cardiologic.github.io/DnD_Library/",
         "technologies": [
             {
                 "tech": "React",
