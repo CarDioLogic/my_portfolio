@@ -24,8 +24,8 @@
                 "iconUrl": "public/images/tech/TailwindCSS.png"
             },
             {
-                "tech": "JavaScript",
-                "iconUrl": "public/images/tech/JavaScript.png"
+                "tech": "TypeScript",
+                "iconUrl": "public/images/tech/TypeScript.png"
             }
         ]
     },
@@ -66,7 +66,7 @@
                 "iconUrl": "public/images/tech/ionic.png"
             },
             {
-                "tech": "Typescript",
+                "tech": "TypeScript",
                 "iconUrl": "public/images/tech/TypeScript.png"
             },
             {
