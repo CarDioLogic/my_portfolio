@@ -1,8 +1,4 @@
-
-
 could add the gaussian blur to the avatar container (maybe even other css tricks i learned)
-
-make cat animation for github btn near avatar img
-    or some other animation on hover
+    -and a custom cursor with a goo effect when it gets close to the container
 
 make typing in animation for portfolio title
