@@ -1,5 +1,34 @@
 
 [
+        {
+        "name": "FlickPeek",
+        "description": "A platform to browse movies and quickly find/watch their video recaps (video recaps finding is limited by daily api quota).",
+        "imageUrl": "",
+        "repoUrl": "",
+        "demoUrl": "https://flickpeek.vercel.app/",
+        "technologies": [
+            {
+                "tech": "React",
+                "iconUrl": "public/images/tech/React.png"
+            },
+            {
+                "tech": "HTML",
+                "iconUrl": "public/images/tech/HTML5.png"
+            },
+            {
+                "tech": "CSS",
+                "iconUrl": "public/images/tech/CSS3.png"
+            },
+            {
+                "tech": "TailwindCSS",
+                "iconUrl": "public/images/tech/TailwindCSS.png"
+            },
+            {
+                "tech": "TypeScript",
+                "iconUrl": "public/images/tech/TypeScript.png"
+            }
+        ]
+    },
     {
         "name": "DnD library",
         "description": "An immersive D&D web app that lets you browse monsters, spells, equipment, and more through a dynamic, book-like interface. Designed for quick, atmospheric access during gameplay, it enhances both player and Dungeon Master experience. Powered by the D&D 5e SRD API.",
