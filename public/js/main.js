@@ -27,12 +27,6 @@ async function getData() {
 
     projects = await fetchProjects();
     if (!projects) alert('Failed to load projects data');
-
-    console.log('Personal Info:', personalInfo);
-    console.log('Skills:', skills);
-    console.log('Education:', education);
-    console.log('Experience:', experience);
-    console.log('Projects:', projects);
 }
 
 async function registerEventListeners() {   
